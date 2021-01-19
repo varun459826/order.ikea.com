@@ -1,1 +1,3 @@
-order.ikea.com
+type = CNAME
+name = www
+value = varun459826.github.io
